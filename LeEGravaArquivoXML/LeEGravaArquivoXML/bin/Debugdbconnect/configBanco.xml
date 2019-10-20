@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Conexao>
+  <ipBanco>10.10.110.5</ipBanco>
+  <usuario>sa</usuario>
+  <senha>angiocorpore*2012</senha>
+  <dataBase>angio</dataBase>
+</Conexao>
